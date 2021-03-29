@@ -1,3 +1,4 @@
+# i completed this
 class Atm
   attr_accessor :funds
 
